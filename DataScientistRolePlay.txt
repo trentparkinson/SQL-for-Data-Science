@@ -2,6 +2,8 @@
 By: Trent Parkinson
 Date: Jan-18th-2018
 
+--One of the best solution for helping the new or beginners one, Thanks mate!--
+
 Data Scientist Role Play: Profiling and Analyzing the Yelp Dataset Coursera Worksheet
 
 This is a 2-part assignment. In the first part, you are asked a series of questions that 
